@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gd-full2025.site/sitemap.xml
